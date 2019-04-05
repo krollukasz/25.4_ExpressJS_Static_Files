@@ -1,0 +1,29 @@
+{
+  "name": "25.4_expressjs_static_files",
+  "version": "1.0.0",
+  "description": "ExpressJS - Static Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/25.4_ExpressJS_Static_Files.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Static_Files",
+    "First_Steps",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/25.4_ExpressJS_Static_Files/issues"
+  },
+  "homepage": "https://github.com/krollukasz/25.4_ExpressJS_Static_Files#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
